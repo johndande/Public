@@ -1,0 +1,1 @@
+Set-TimeZone -Id "GTB Standard Time"
